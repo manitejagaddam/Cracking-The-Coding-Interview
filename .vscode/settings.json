@@ -2,6 +2,7 @@
     "files.associations": {
         "*.ejs": "html",
         "*.rmd": "markdown",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "iostream": "cpp"
     }
 }
