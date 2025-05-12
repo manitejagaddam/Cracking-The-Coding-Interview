@@ -3,6 +3,7 @@
         "*.ejs": "html",
         "*.rmd": "markdown",
         "algorithm": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
